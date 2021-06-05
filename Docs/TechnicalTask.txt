@@ -1,0 +1,14 @@
+
+Kredit uchun onlayn so'rovnoma.
+
+2 ta api servis yaratish kerak.
+
+1-si Passport seriya va raqami qabul qilib olishi kerak, va ism familiya kabi malumotlarini chiqarishi kerak.
+2-si Passport seriya va raqami, oylik ish haqi summasi va olmoqchi bo'lgan kredit summasi qabul qilib olishi kerak.
+2- Servis olingan passport malumotlari orqali 1-servisdan malumot olishi kerak 
+va umumiy olingan malumotlarni MB ga saqlash kerak. Yig'ilgan malumotlarni jamlangandan so'ng, mijozni 1 yillik 
+daromadini hisoblash keak, yani 30% soliqlarni olib tashlab 1 yillik daromadini chiqarish kerak. Keyin kreditni summasi 
+va foizi ga mijozni daromadi yetish yetmasligi tekshiriladi. Agar yetsa kredit uchun so'rov qabul qilinishi kerak,
+agar yetmasa kamroq summaga taklif berilishi kerak.
+
+Ishlatiladigan tehnologiyalar: springboot, jpa, spring security (basic auth), postgres yoki mysql
