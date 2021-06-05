@@ -1,2 +1,2 @@
 # credit-calculator
-Solution of technical task
+Solution of technical tasks to go to Xalq-Bank for an interview.
